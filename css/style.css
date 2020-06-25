@@ -47,11 +47,13 @@ header{
     /*background-color: green;*/
 }
 
-@media screen and(max-width: 510px){
+@media screen and (max-width: 510px){
     header{
         text-align: center;
     }
     .logo-1,.logo-2{
+        margin-top: 10px;
+        display: inline-block;
         float: none;
     }
 }
