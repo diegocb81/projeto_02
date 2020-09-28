@@ -34,6 +34,7 @@ header{
     background-size: 100% auto;
     background-repeat: no-repeat;
     background-position: center;
+    border-radius: 30%;
     /*background-color: purple;*/
 }
 
@@ -45,6 +46,7 @@ header{
     background-size: 100% auto;
     background-repeat: no-repeat;
     background-position: center;
+    border-radius: 30%;
     /*background-color: green;*/
 }
 
@@ -196,6 +198,7 @@ footer p{
 
 footer img{
     width: 130px;
+    border-radius: 10%;
 }
 
 @media screen and (max-width: 1024px){
